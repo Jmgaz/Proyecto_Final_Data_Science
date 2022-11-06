@@ -13,7 +13,7 @@ Profesor:
 
 
 
-# Contexto:
+# Proyecto de DS:
 
 Nosotros vamos a usar Git para controlar las versiones del proyecto pasando por todas las etapas, debajo se encuentran las entregas mas importantes del proyecto final de DS puestas por commit, entonces se puede ir al especifico commit para ver a detalle la evolucion.
 
