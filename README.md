@@ -25,9 +25,8 @@ Nosotros vamos a usar Git para controlar las versiones del proyecto pasando por 
 - Proyecto DS III. commit: a16b7bd8aa97f65ebdba4c28764d693b451b49ec
 
 
-# Entregas Finales
+# Entrega Final
 
-### Primera Entrega
+- Proyecto_Final_Data_Science_Carsillo+Rodriguez.ipynb. commit: 
 
-- PrimeraEntrega_Carsillo+Rodriguez.ipynb
 
