@@ -27,6 +27,6 @@ Nosotros vamos a usar Git para controlar las versiones del proyecto pasando por 
 
 # Entrega Final
 
-- Proyecto_Final_Data_Science_Carsillo+Rodriguez.ipynb. commit: 
+- Proyecto_Final_Data_Science_Carsillo+Rodriguez.ipynb. commit: 7df347cd6ffe6b4ca63999d6ca6d6ece12c16eca
 
 
